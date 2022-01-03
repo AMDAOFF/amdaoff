@@ -17,7 +17,7 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Looking for a job...
+- 🔭 Curently occipied with working for GSGroup Denmark.
 
 - 🌱 I’m currently learning Nothing at the moment, looking for something new... 
 
