@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning Nothing at the moment, looking for something new... 
 
-- 👯 I’m looking to collaborate on  
+- 👯 I’m looking to collaborate on not looking for colabs at the moment
 
-- 💬 Talk to me about HML, CSS, Javscript and PHP 
+- 💬 Talk to me about HTML, CSS, JS, PHP and Github Workflows
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/AMDAOFF?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
@@ -51,12 +51,6 @@
     <img height = '30px' src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a> 
 
-
-<!-- <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=amdaoff&compact=True"/>
-</a>
-<br> -->
 
 <br>
 <br>
