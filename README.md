@@ -19,7 +19,7 @@
 
 - 🔭 Curently occipied with working for GSGroup Denmark.
 
-- 🌱 I’m currently learning Nothing at the moment, looking for something new... 
+- 🌱 I’m currently learning integration development for home assistant / python
 
 - 👯 I’m looking to collaborate on not looking for colabs at the moment
 
