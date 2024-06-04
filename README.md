@@ -17,13 +17,13 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Curently occipied with working for GSGroup Denmark.
+- 🔭 CUrrently not occypied, looking for new challenges in my proffesional life.
 
-- 🌱 I’m currently learning integration development for home assistant / python
+- 🌱 I'm currently learning / working on an app in react native.
 
-- 👯 I’m looking to collaborate on not looking for colabs at the moment
+- 👯 I’m not looking for any collaborations for the moment.
 
-- 💬 Talk to me about HTML, CSS, JS, PHP and Github Workflows
+- 💬 Talk to me about Kubernetes, NodeJS, React Native, Webdevelopment and CI/CD
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/AMDAOFF?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
