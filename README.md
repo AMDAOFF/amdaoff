@@ -11,7 +11,7 @@
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 CUrrently not occypied, looking for new challenges in my proffesional life.
+- 🔭 Currently not occypied with IT, working as a detailer. Keeping my dev skills up to speed in my spare time.
 
 - 🌱 I'm currently working on a private repo (Power Distribution Module) for racecars.
 
