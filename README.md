@@ -5,13 +5,7 @@
 <br>
 <br>
 
-<h1> Hello Fellow <b>Developer</b></h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AMDAOFF.AMDAOFF)
-
-</p>
-
+<h1> Hello Fellow <b>NERD</b></h1>
 <h2> About Me </h2>
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -19,11 +13,11 @@
 
 - 🔭 CUrrently not occypied, looking for new challenges in my proffesional life.
 
-- 🌱 I'm currently learning / working on an app in react native.
+- 🌱 I'm currently working on a private repo (Power Distribution Module) for racecars.
 
-- 👯 I’m not looking for any collaborations for the moment.
+- 👯 Possibly looking for someone that could help write software for an ESP32.
 
-- 💬 Talk to me about Kubernetes, NodeJS, React Native, Webdevelopment and CI/CD
+- 💬 Talk to me about Kubernetes, NodeJS, React Native, Webdevelopment and CI/CD, Electronics design
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/AMDAOFF?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
